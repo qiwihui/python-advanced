@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '一本书'
-copyright = '2019, qiwihui'
+project = 'Python 进阶'
+copyright = '2021, qiwihui'
 author = 'qiwihui'
 
 # The short X.Y version
@@ -146,7 +146,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sphinx.tex', '你的第一本 Sphinx 书',
+    (master_doc, 'sphinx.tex', 'Python 进阶',
      '作者：qiwihui', 'manual', True),
 ]
 
@@ -156,7 +156,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinx', '一本书 Documentation',
+    (master_doc, 'sphinx', 'Python 进阶',
      [author], 1)
 ]
 
@@ -167,7 +167,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sphinx', '一本书 Documentation',
+    (master_doc, 'sphinx', 'Python 进阶',
      author, 'sphinx', 'One line description of project.',
      'Miscellaneous'),
 ]
