@@ -1,6 +1,10 @@
 Python 进阶
 ==================================
 
+高级 Python 教程。 它涵盖了集合，装饰器，生成器，多线程，日志记录等主题。
+
+原视频地址：[Advanced Python](https://www.python-engineer.com/courses/advancedpython/)
+
 .. toctree::
    :maxdepth: 2
    :caption: 目录:
